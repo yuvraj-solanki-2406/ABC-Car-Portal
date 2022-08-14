@@ -1,0 +1,76 @@
+@charset "ISO-8859-1";
+#nav_list{
+    font-size: 20px;
+    color: black;
+    margin-left: 40px;
+}
+ul li {
+    padding: 10px;
+}
+ul li :hover{
+    text-decoration: underline;
+}
+#heading{
+    color: rgb(0 47 101);
+    font-weight: bold;
+    font-size: 27px;
+    font-family: verdana,georgia,cambria;
+}
+#circle_image{
+    transition: 4000ms;
+    width: 39em;
+    height: 37em;
+}
+#new{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: -420px;
+    background-color: #8094ad;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 28px;
+}
+#register_btn{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: -420px;
+    padding: 11px;
+    font-family: Georgia, 'Verdana', Times, serif;
+    color: black;
+    font-size: 26px;
+}
+#register_btn:hover{
+    background-color: #8094ad;
+    color: white;
+    box-shadow: 5px;
+}
+.login_form{
+    float: right;
+    width: 33em;
+    margin-right: 10em;
+    margin-top: 7em;
+    border: 3px solid rgb(20 52 97);
+    border-radius: 8px;
+    padding: 25px;
+    font-size: 16px;
+}
+#login{
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    background-color:rgb(20 52 97);
+    color: white;
+    font-size: 17px;
+    float: right;
+}
+#login:hover{
+    color: rgb(20 52 97);
+    background-color: white;
+}
+#f_password{
+    color: blue;
+    text-decoration: underline;
+    position: absolute;
+    margin-top: 8px;
+}

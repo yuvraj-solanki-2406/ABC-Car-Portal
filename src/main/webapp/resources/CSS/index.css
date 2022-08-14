@@ -1,0 +1,71 @@
+@charset "ISO-8859-1";
+#nav_list{
+    font-size: 20px;
+    color: black;
+    margin-left: 40px;
+}
+ul li {
+    padding: 10px;
+}
+ul li :hover{
+    text-decoration: underline;
+}
+#heading{
+    color: rgb(0 47 101);
+    font-weight: bold;
+    font-size: 27px;
+    font-family: verdana,georgia,cambria;
+}
+#hero_banner{
+    margin-top: -5em;
+}
+#para1{
+    float: left;
+    position: relative;
+    margin-top: -18em;
+    font-size: 24px;
+}
+#hero_banner{
+    margin-top: -5em;
+}
+#para1{
+    float: left;
+    position: relative;
+    margin-top: -18em;
+    font-size: 24px;
+}
+#form_image{
+    float: left;
+    display: inline;
+}
+#form_images{
+    width: 22em;
+    height: 30em;
+}
+#form{
+    float: right;
+    display: inline;
+}
+#congrats{
+	color: Green;
+	font-weight: bold;
+	font-family: 'Verdana','Georgia';
+	font-size: 22px;
+	
+}
+
+
+/* CSS for User Page Started */
+
+.gradient-custom {
+	
+background: #f6d365;
+
+background: -webkit-linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1));
+
+background: linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1))
+}
+
+/* CSS for User Page Ended */
+
+
